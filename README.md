@@ -43,7 +43,7 @@
 ![VIPUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipul-027&show_icons=true&theme=great-gatsby)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vipul-027&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-027&layout=compact&theme=vision-friendly-dark)](https://github.com/MrKrishnaAgarwal/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-027&layout=compact&theme=vision-friendly-dark)](https://github.com/vipul-027/github-readme-stats)
   
 <!---
 Mrvipul kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
