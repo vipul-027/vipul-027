@@ -5,7 +5,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47ef15ro8apt0vi351xn7hk0aeb7jlr2ebckqiakpu&rid=200w.webp&ct=g" width="350"/>
+  <img src="https://media0.giphy.com/media/YuKbGGIYMXemhnub3q/200w.webp?cid=ecf05e47pc3uz7hutz9rj3cdeps3s8gn4ktfs74486g2kmyj&rid=200w.webp&ct=s" width="150"/>
 </div>
 
 <div id="header" align="center">
