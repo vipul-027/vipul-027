@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
  🧑‍💻I am a Web  Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  - :telescope: I'm sophomore at university institute of technology,THE UNIVERSITY OF BURDWAN. and I'm currently Learning Coding And web Devlopment.
+  - :telescope: I'm pre final year student at university institute of technology,THE UNIVERSITY OF BURDWAN. and I'm currently Learning Coding And web Devlopment.
 
 - :seedling: I’m interested in Competitive Coding, Web Devlopment, Machine Learning and Cloud computing and recent technologies.
 
