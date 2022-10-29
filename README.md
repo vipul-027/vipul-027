@@ -41,7 +41,7 @@
 
 ### :fire: My Stats :
 ![VIPUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipul-027&show_icons=true&theme=great-gatsby)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vipul-027&theme=vision-friendly-dark&border=0D0202)](https://git.io/streak-stats)
+[![GitHub Streak][![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vipul-027&theme=dark)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-027&layout=compact&theme=vision-friendly-dark)](https://github.com/vipul-027/github-readme-stats)
   
