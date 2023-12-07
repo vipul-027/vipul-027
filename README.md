@@ -23,7 +23,7 @@
 </div>
   
 
-### :man_technologist: About Me :
+###  About Me :
  🧑‍💻I am a Web  Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - :telescope: I'm  final year student at university institute of technology,THE UNIVERSITY OF BURDWAN. and I'm currently Learning Coding And web Devlopment.
 
